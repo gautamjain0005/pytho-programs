@@ -1,0 +1,6 @@
+n=int(input("enter number to check: ")
+if n%2!=0:
+    print("odd number")
+else:
+    print("not an odd number")
+        
